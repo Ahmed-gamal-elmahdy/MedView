@@ -35,14 +35,7 @@ A website to visualize data using @kitware/vtkjs , react and Nodejs.
  - Yarn 
  ## Screenshots
 
-  
-
-![Clipping Screenshot](https://i.ibb.co/0qQbqvs/1.png)
 ![App Gif](https://s10.gifyu.com/images/clipGif.gif)
-
-
-![SlicerScreenshot](https://i.ibb.co/8XfZTwc/1.png)
-
 ![App gif](https://s10.gifyu.com/images/sliceGif.gif)
 ![App gif](https://s10.gifyu.com/images/isoGif.gif)
 ![App gif](https://s10.gifyu.com/images/cropGif.gif)
